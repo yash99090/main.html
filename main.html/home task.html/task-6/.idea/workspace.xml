@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b732b93-e9cf-47f9-ba9f-357922e30802" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1rP9lYcX3qRisWVAdpydXazTXE0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.41" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b732b93-e9cf-47f9-ba9f-357922e30802" name="Default Changelist" comment="" />
+      <created>1618867012000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618867012000</updated>
+      <workItem from="1618867014627" duration="4766000" />
+      <workItem from="1619033586673" duration="4166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="316" key="#File_Watchers" timestamp="1619035311897">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="592" y="316" key="#File_Watchers/0.25.1440.818@0.25.1440.818" timestamp="1619035311897" />
+    <state x="450" y="261" key="#Notifications" timestamp="1618950843571">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="450" y="261" key="#Notifications/0.25.1440.818@0.25.1440.818" timestamp="1618950843571" />
+    <state x="520" y="260" key="#Usage_Scope" timestamp="1618868280235">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="520" y="260" key="#Usage_Scope/0.25.1440.818@0.25.1440.818" timestamp="1618868280235" />
+    <state x="507" y="142" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1619034414298">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="507" y="142" key="#com.intellij.ide.macro.MacrosDialog/0.25.1440.818@0.25.1440.818" timestamp="1619034414298" />
+    <state x="379" y="194" width="682" height="649" key="EditFileWatcherDialog" timestamp="1619035081054">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="379" y="194" width="682" height="649" key="EditFileWatcherDialog/0.25.1440.818@0.25.1440.818" timestamp="1619035081054" />
+    <state x="228" y="70" key="SettingsEditor" timestamp="1619124405886">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="228" y="70" key="SettingsEditor/0.25.1440.818@0.25.1440.818" timestamp="1619124405886" />
+    <state x="444" y="245" key="jetbrains.nodejs.interpreters-dialog" timestamp="1618951326711">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="444" y="245" key="jetbrains.nodejs.interpreters-dialog/0.25.1440.818@0.25.1440.818" timestamp="1618951326711" />
+  </component>
+</project>
